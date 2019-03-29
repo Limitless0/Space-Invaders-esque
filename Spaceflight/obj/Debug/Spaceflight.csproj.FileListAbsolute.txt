@@ -1,0 +1,7 @@
+C:\Users\Abanoub Iskander\source\repos\Spaceflight\Spaceflight\bin\Debug\Spaceflight.exe.config
+C:\Users\Abanoub Iskander\source\repos\Spaceflight\Spaceflight\bin\Debug\Spaceflight.exe
+C:\Users\Abanoub Iskander\source\repos\Spaceflight\Spaceflight\bin\Debug\Spaceflight.pdb
+C:\Users\Abanoub Iskander\source\repos\Spaceflight\Spaceflight\obj\Debug\Spaceflight.csprojAssemblyReference.cache
+C:\Users\Abanoub Iskander\source\repos\Spaceflight\Spaceflight\obj\Debug\Spaceflight.csproj.CoreCompileInputs.cache
+C:\Users\Abanoub Iskander\source\repos\Spaceflight\Spaceflight\obj\Debug\Spaceflight.exe
+C:\Users\Abanoub Iskander\source\repos\Spaceflight\Spaceflight\obj\Debug\Spaceflight.pdb
